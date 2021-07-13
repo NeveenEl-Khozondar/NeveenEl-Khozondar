@@ -1,4 +1,4 @@
-### Hi, I'm Niveen Elkhozondar! 👋
+### Hi👋, I'm Niveen Elkhozondar, Follow me! 
 
 
 - 🔭 I’m currently working as freelancer
