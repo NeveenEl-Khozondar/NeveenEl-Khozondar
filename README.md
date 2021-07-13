@@ -1,4 +1,5 @@
-### Hi👋, I'm Niveen Elkhozondar
+### Hi👋, I'm Niveen Elkhozondar!
+### Follow me!
 
 
 
@@ -11,4 +12,4 @@
 - ⚡ Fun fact: One thing I cannot live without is coding
 
 <img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=blue&text_color=daf7dc&bg_color=191919">
-### Follow me! 
+
