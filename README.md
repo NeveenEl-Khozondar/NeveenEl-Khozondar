@@ -1,11 +1,10 @@
-### Hey, This's Niveen Alkhozondar!
-### Follow me!
+### Hi, it's Niveen Alkhozondar!
+### A quality assurance engineer!
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning and trying to be a professional software engineering 
-- 📫 How to reach me: niveen.khozonar01@gmail.com
+- 📫 You can reach me by: niveen.khozonar01@gmail.com
 - 💬 Ask me about anything in the quality assurance field or any tech-related stuff
-- ⚡ Fun fact: One thing I cannot live without is coding
 
 <img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=blue&text_color=daf7dc&bg_color=191919">
 
