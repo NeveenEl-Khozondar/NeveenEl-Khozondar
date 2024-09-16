@@ -1,7 +1,6 @@
 ### Hi, it's Niveen Alkhozondar!
 ### A quality assurance engineer!
 
-- 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning and trying to be a professional software engineering 
 - 📫 You can reach me by: niveen.khozonar01@gmail.com
 - 💬 Ask me about anything in the quality assurance field or any tech-related stuff
